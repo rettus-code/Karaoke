@@ -1,0 +1,32 @@
+.fans {
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+}
+
+.intro-gif {
+  width: 40%;
+  object-fit: contain;
+}
+
+.fans2 {
+  position: fixed;
+  bottom: 20px;
+  left: 59%;
+}
+
+.intro-gif2 {
+  width: 40%;
+  object-fit: contain;
+  transform: scaleX(-1);
+}
+
+p, h4, #RC_h1 {
+  padding: 5px;
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+.spacer {
+  height: 30vh;
+}
