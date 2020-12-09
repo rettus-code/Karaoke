@@ -12,7 +12,7 @@
         <div class="intro-col col-sm-2 spacer"></div>
         <div class="intro-col col-sm-5">
         <h4>It's a potluck</h4>
-        <p class="intro">I'll be making shredded pork tacos, but this time you can impress me with your best dish, or just pick something up at the store. Sign-up at the bottom of the page you can see a list of what other people are bringing.</p>
+        <p class="intro">I'll be making shredded pork tacos, but this time you can impress me with your best dish, or just pick something up at the store. Sign-up at the bottom of the page you can see a list of what other people are bringing below.</p>
         </div>
         <div class="intro-img fans">
             <img src="images/stadium.gif" class="intro-gif" alt="layers of code">

@@ -15,6 +15,8 @@
 <body>
     <?php include 'include/background.php';?>
     <?php include 'include/intro.php';?>
+    <?php include 'include/potluck.php';?>
+    <?php include 'include/list.php';?>
 
     <script src="node_modules/jquery/dist/jquery.js"></script>
     <script src="node_modules/popper.js/dist/popper.js"></script>

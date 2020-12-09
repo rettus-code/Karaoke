@@ -1,9 +1,11 @@
-
+@import url("../node_modules/bootstrap/dist/css/bootstrap.css");
+@import url("../node_modules/bootstrap/scss/bootstrap.scss"); 
+@import url("https://use.fontawesome.com/releases/v5.13.1/css/all.css"); 
 
 .fans {
     position: fixed;
     bottom: 20px;
-    left: 0;
+    left: -5px;
 }
 .intro-gif {
     width: 40%;
@@ -27,4 +29,25 @@ p, h4, #RC_h1 {
 }
 .spacer {
     height: 30vh;
+}
+.btn {
+    position: fixed;
+    bottom: 20px;
+    left: 48%;
+}
+@media only screen and (max-width: 900px) {
+    .btn {
+        left: 44%;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .btn {
+        left: 40%;
+    }
+}
+.list {
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    margin-bottom: 100px;
 }
